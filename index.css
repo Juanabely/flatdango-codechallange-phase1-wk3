@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+#main{
+
+    float: right;
+    width: 50%;
+    height: 100vh;
+    background-color: aqua;
+    color: black;
+    font-weight: 50px;
+    font-size: 20px;
+}
+#list{
+    float: left;
+}
+.head{
+    font-weight: 10px;
+}
+#form{
+    background-color: aqua;
+}
+.container{
+    margin: none;
+    padding: none;
+}
+#input{
+    width: 150px;
+    height: 30px;
+    border: none;
+    
+}
+#submit{
+    background-color: aqua;
+}
+.baton{
+    background-color: aqua;
+}
+button{
+    background-color: aqua;
+}
